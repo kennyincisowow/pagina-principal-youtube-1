@@ -184,7 +184,6 @@ footer a:hover {
 textarea {
   resize: none;
 }
-button{
-
-  background-color: none;
+.btn2{
+  padding: 20px;
 }
